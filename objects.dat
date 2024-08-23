@@ -1,0 +1,5 @@
+#Name, is_mobile, lattice_name, lattice_constant, offset_vector/lattice constant
+IH True diamond_cubic 5.429 3/8 3/8 5/8 
+IT True diamond_cubic 5.429 1/2 1/2 1/2
+IBC True diamond_cubic 5.429 1/8 1/8 1/8
+V True diamond_cubic 5.429 0.0 0.0 0.0
